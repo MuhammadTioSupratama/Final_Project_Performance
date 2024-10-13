@@ -1,0 +1,16 @@
+{
+  "name": "performance_test",
+  "version": "1.0.0",
+  "main": "Load_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-html-reporters": "^3.1.7",
+    "supertest": "^7.0.0"
+  }
+}
